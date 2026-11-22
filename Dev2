@@ -14,7 +14,7 @@ local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 local CONFIG_FILE = "BlackShadowConfig.json"
 
 local Config = {
-	ScriptUrl = "YOUR_RAW_URL",
+	ScriptUrl = "https://raw.githubusercontent.com/DevSuh57/Dev3/refs/heads/main/Dev4%20Universal%20S",
 	WalkSpeedEnabled = false,
 	WalkSpeedValue = 16,
 	JumpPowerEnabled = false,
